@@ -1,5 +1,5 @@
 # traininglog
-
+Test
 
 ## Scaffolding
 C:\src> express myapp #generate Express scaffolding in a project folder
